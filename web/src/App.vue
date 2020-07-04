@@ -33,15 +33,7 @@
 			<portal-target name="navbar" slim />
 			<v-spacer />
 			<v-toolbar-items>
-				<v-btn
-					text
-					class="text-none hidden-sm-and-down"
-					tag="a"
-					href="https://github.com/maple3142/GDIndex"
-					target="_blank"
-				>
-					<v-icon>mdi-github-circle</v-icon>&nbsp;GitHub</v-btn
-				>
+				
 			</v-toolbar-items>
 		</v-app-bar>
 
